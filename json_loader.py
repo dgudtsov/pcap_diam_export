@@ -61,7 +61,7 @@ PROFILE = 0
 import pymysql.cursors
 
 # Connect to the database
-connection = pymysql.connect(host='10.31.74.222',
+connection = pymysql.connect(host='',
                              user='pcap',
                              password='',
                              db='pcap',
